@@ -1,5 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm  Mostafa Lotfy </h1>
-<h3 align="center">Software Engineer | Passionate about Web Development</h3>
+<h3 align="center">Software Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Computer+Science+Graduate;ITI+Diploma+Holder;Open-Source+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
