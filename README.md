@@ -7,13 +7,11 @@
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-- 💻 I'm a software engineer with a focus on **Python**, **JavaScript**, **Java**, and **open source technologies**
-- 🎓 *Computer Science & Statistics, Faculty of Scince, Helwan University*
-- 🎓 *ITI 9-Month Scholarship – Open Source Application Development Track*
+- 💻 Software Engineer with a focus on **Python**, **JavaScript**, **Java**, and **open source technologies**
+- 🎓 Computer Science & Statistics, Faculty of Scince, Helwan University
+- 🎓 ITI 9-Month Scholarship – Open Source Application Development Track
 - 🌱 Currently expanding my expertise in **Django**, **NodeJS**, **NestJS**, and **Ruby On Rails**
 - 🚀 Passionate about building clean, scalable applications and solving real-world problems
-- 📫 How to reach me: [Mostafa Lotfy](https://linkedin.com/in/xmostafalotfy)
-
 ---
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
